@@ -18,8 +18,4 @@ options:
 
 Example: passgen.py -l 16 -ULS
 
-/* When downloaded into ~/<Directory>
-chmod +x passgen.py
-cp ~/path/to/password.py ~/.local/bin/passgen
-*/
     
